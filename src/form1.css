@@ -1,0 +1,43 @@
+form[method="post"]{
+    background-color:lightyellow;
+    border:1px solid gray;
+    margin-left:350px;
+    margin-right:350px;
+    margin-bottom:1000px;
+    border-radius:10px;
+}
+input[type="text"]
+{
+    border:3px solid gray;
+    width:500px;
+    height:20px;
+    border-radius:10px;
+    padding:10px 10px;
+    font-size:25px;
+}
+
+input[type="password"]
+{
+    border:3px solid gray;
+    width:500px;
+    height:20px;
+    border-radius:10px;
+    padding: 10px 10px;
+    
+}
+.errorMsg{
+    color:red;
+    margin-right:300px;
+
+}
+.error{
+    color:red;
+    margin-right:380px;
+}
+.err{
+    color:red;
+    margin-right:250px;
+}
+label{
+    margin-right:300px;
+}
